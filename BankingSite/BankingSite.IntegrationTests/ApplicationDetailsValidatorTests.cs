@@ -19,7 +19,7 @@ namespace BankingSite.IntegrationTests
 
                 AirlineFrequentFlyerNumber = "A1234567",
                 ApplicantAgeInYears = 44, 
-                ApplicantName = "Liza"
+                ApplicantName = "Lisa"
 
             };
 
