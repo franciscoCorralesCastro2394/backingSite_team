@@ -12,8 +12,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingSite.IntegrationTest
 		{65456C3C-D602-4A2A-80A9-E6FF0EE32E97} = {65456C3C-D602-4A2A-80A9-E6FF0EE32E97}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackingSite.UITests", "BackingSite.UITests\BackingSite.UITests.csproj", "{BDAE70A7-B3B2-4F83-9ABB-1F9049025A0B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,10 +30,6 @@ Global
 		{91A23980-7FB7-4298-97FC-A1DB844B38E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91A23980-7FB7-4298-97FC-A1DB844B38E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91A23980-7FB7-4298-97FC-A1DB844B38E6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BDAE70A7-B3B2-4F83-9ABB-1F9049025A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BDAE70A7-B3B2-4F83-9ABB-1F9049025A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BDAE70A7-B3B2-4F83-9ABB-1F9049025A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BDAE70A7-B3B2-4F83-9ABB-1F9049025A0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
